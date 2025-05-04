@@ -1,4 +1,4 @@
-dataset link on kaggle;-https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
+
 💳 Credit Card Approval Prediction
 This project is a machine learning solution that predicts the likelihood of credit card application approvals using key customer data. With a focus on accuracy and fairness, it applies supervised learning techniques to help financial institutions make better, data-driven decisions.
 
@@ -55,3 +55,4 @@ Edit
 jupyter notebook credit-card-approval-prediction99-acc-99 (1).ipynb
 📎 Result
 The model achieved 99% test accuracy, making it highly suitable for credit risk prediction tasks.
+dataset link on kaggle;-https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
